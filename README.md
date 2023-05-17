@@ -8,9 +8,7 @@
 adventureguild21/adventureguild21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Developing and optimising the news and pr publication website TheIndiaSaga news site [Best PR Site To Pusblih - TheIndiaSaga](https://theindiasaga.com/)
-Optimising the UI/UX and Meta Tages for Savin Communication [Best PR Company In India - TheIndiaSaga](https://savincommunication.com/)
-My presonal favourite blog [Engima](https://engima.in/)
+Developing and optimising the news and pr publication website TheIndiaSaga news site [Best PR Site To Pusblih - TheIndiaSaga](https://theindiasaga.com/). Optimising the UI/UX and Meta Tages for Savin Communication [Best PR Company In India - Savin Communication](https://savincommunication.com/). And my presonal favourite blog [Engima](https://engima.in/)
 
 I am a highly motivated and skilled software engineer with a passion for blockchain technology. I have a strong understanding of Solidity, the programming language used to build smart contracts on Ethereum. I am also proficient in other programming languages, such as Python and Java. I am eager to learn and grow in the blockchain space, and I am confident that I have the skills and experience to be a valuable asset to any team.
 
